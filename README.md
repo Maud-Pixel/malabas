@@ -3,7 +3,7 @@
 ###### A simple Wordpress project 
 
 ###Live Demo
-http://http//malabas.byethost7.com
+http://malabas.byethost7.com
 
 login: CoachesRockTheWorld
 mdp: TucTAa5NYC5dsh
